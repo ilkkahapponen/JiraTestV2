@@ -2,3 +2,5 @@
 Testing Jira V2
 
 Adding some text and making a commit.
+
+Changing ticket status
