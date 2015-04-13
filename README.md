@@ -8,3 +8,5 @@ Changing ticket status
 And again.
 
 Again.
+
+Merged?
